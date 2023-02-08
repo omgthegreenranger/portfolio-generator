@@ -1,0 +1,23 @@
+{
+  "name": "portfolio-generator",
+  "version": "1.0.0",
+  "description": "portfolio generator",
+  "main": "./assets/scripts/scripts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omgthegreenranger/portfolio-generator.git"
+  },
+  "author": "Stephen Cardie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/omgthegreenranger/portfolio-generator/issues"
+  },
+  "homepage": "https://github.com/omgthegreenranger/portfolio-generator#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "inquirer": "^8.2.4"
+  }
+}
